@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "z5wMG7vEC1Q=",
+  "success": true,
+  "projectFilePath": "/Users/michaelbalogun/GitRepos/medx/backend/backend.csproj",
+  "expectedPackageFiles": [
+    "/Users/michaelbalogun/.nuget/packages/microsoft.aspnetcore.openapi/10.0.1/microsoft.aspnetcore.openapi.10.0.1.nupkg.sha512",
+    "/Users/michaelbalogun/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
